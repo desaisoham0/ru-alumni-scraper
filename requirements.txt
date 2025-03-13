@@ -1,5 +1,5 @@
-pandas
-selenium
+pandas==1.5.3
+selenium==4.8.2
 webdriver_manager
 sentence_transformers
 fuzzywuzzy
